@@ -1,4 +1,4 @@
 project.conf
-user.db
+users.db
 /.idea
 /venv
